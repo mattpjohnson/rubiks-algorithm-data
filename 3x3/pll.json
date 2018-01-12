@@ -1,0 +1,21 @@
+{
+    "Aa": {
+        "probability": 0.05556,
+        "algorithms": [
+            "l' U R' D2 R U' R' D2 R2",
+            "x R' U R' D2 R U' R' D2 R2",
+            "R' F R' B2 R F' R' B2 R2",
+            "y x' R2 D2' R' U' R D2' R' U R'"
+        ]
+    },
+    "Ab": {
+        "probability": 0.05556,
+        "algorithms": [
+            "l' R' D2 R U R' D2 R U' R x'",
+            "x R2' D2 R U R' D2 R U' R x'",
+            "y x' R U' R D2 R' U R D2 R2",
+            "y l U' R D2 R' U R D2 R2",
+            "y' x L U' L D2 L' U L D2 L2"
+        ]
+    }
+}
